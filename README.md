@@ -68,7 +68,7 @@ This repository contains a series of assignments and experiments related to **au
 
 ## 👩‍💻 Author
 
-**Jeniya Rashid**  
+**Jeniya Sultana**  
 Graduate Researcher | University of Texas at El Paso  
 Focus Areas: Human-Centered Computing, Wearable Tech, Smart Construction  
 [GitHub Profile](https://github.com/Jeniya1378)
